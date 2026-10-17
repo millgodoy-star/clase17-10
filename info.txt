@@ -2,4 +2,5 @@ clase del 17-10
 - uso de github
 - uso de api
 - uso del python
+- prearación evaluació n°2
 
